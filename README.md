@@ -24,6 +24,7 @@ The memo and the wallet password are retrieved from environment variables.
 Before using the script, set the following environment variables:
 
 __MEMO__: The memo required for voting.
+
 __NAMADA_WALLET_PASSWORD__: The password for accessing the Namadac wallet.
 
 ```
