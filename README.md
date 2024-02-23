@@ -20,6 +20,12 @@ git clone https://github.com/NodeJom/namada-utils.git
 
 Edit the query-proposal-votes command in the script according to your RPC specifications. 
 
+* Make the Script Executable
+Before running the script, ensure it has executable permissions. You can do this by running the following command:
+```bash
+chmod +x vote-checker.sh
+```
+
 * Run the Script:
 
 Execute the script and provide the start and end proposal IDs as arguments:
